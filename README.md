@@ -1,2 +1,2 @@
 # AI-Summarizer
-an open-source article summarizer to save time and simplify your reading.
+website that use an open-source article summarizer to save time and simplify your reading.
